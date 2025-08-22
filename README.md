@@ -1,5 +1,9 @@
-## Hi there 👋
+## 🙌 Hi there, I'm Do-pro
 
+## 👩‍💻 Work Experience
+- **2022.06 ~ 2022.12** : 통계개발원 통계방법연구실 연구보조 근무
+- **2023.06 ~           : 주식회사 넥스캠 기술개발부 근무
+- 
 <!--
 **dopro-nx/dopro-nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
